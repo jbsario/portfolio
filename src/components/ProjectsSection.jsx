@@ -10,6 +10,15 @@ const projects = [
     // demoUrl: "#",
     githubUrl: "https://github.com/jbsario/Online-Health-Declaration-android-offline-version-",
   },
+  {
+    id: 2,
+    title: "XMove",
+    description: " Delivery App",
+    image: "/projects/android_kotlin.png",
+    tags: ["ReactJS","Vite"],
+    // demoUrl: "#",
+    githubUrl: "https://github.com/jbsario/Xmove_V2",
+  },
   // {
   //   id: 1,
   //   title: "SaaS Landing Page",
@@ -51,8 +60,10 @@ export const ProjectsSection = () => {
         </h2>
 
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-          Here are some of my recent projects. Each project was carefully
-          crafted with attention to detail, performance, and user experience.
+         Featured Projects
+Here are some of my recent projects. Each project was carefully crafted with attention to detail, performance, and user experience.
+
+Please note that due to non-disclosure agreements, projects created during or under my previous employment cannot be publicly disclosed.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
