@@ -14,9 +14,10 @@ const projects = [
     id: 2,
     title: "XMove",
     description: " Delivery App",
-    image: "https://private-user-images.githubusercontent.com/106648408/516293993-41cd1ece-4435-4efc-9349-c627858e0ed9.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc4Njg1MTksIm5iZiI6MTc2Nzg2ODIxOSwicGF0aCI6Ii8xMDY2NDg0MDgvNTE2MjkzOTkzLTQxY2QxZWNlLTQ0MzUtNGVmYy05MzQ5LWM2Mjc4NThlMGVkOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDEwOFQxMDMwMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNzUzNzcyNzQyM2IxMzFlOGZhMzU2MjhmMGFlNmY0NjVmMDNlY2Y2ZWEwY2E3Yjg2MjE2NDcyM2Q3NzI3YWFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-jdE9MnIZQNlZ6sa1IiSZ2ZxeSXDxeHj5D6dDV5Ms18",
+  
     tags: ["ReactJS","Vite"],
     // demoUrl: "#",
+  image: "https://res.cloudinary.com/dnlsg8f0j/image/upload/v1767869095/sssssssss_xlcbgb.png",
     githubUrl: "https://github.com/jbsario/Xmove_V2",
   },
   {
